@@ -63,7 +63,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 
 [Messenger]
 excluded-patches = "change-package-name"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/messenger-419-0-0-0-3-release/"
 apkmirror-arch = "arm64-v8a"
 
 [Spotify]
