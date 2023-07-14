@@ -1,10 +1,6 @@
-Twitter: 9.71.0-release.0  
 Twitch: 15.4.1  
-TikTok: 30.4.3  
-Reddit: 2023.27.0  
+Twitter: 9.71.0-release.0  
 Messenger: 417.0.0.12.64  
-Spotify: 8.8.50.466  
-Citra: bed6a4f12  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
