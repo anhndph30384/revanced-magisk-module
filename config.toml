@@ -53,10 +53,12 @@ excluded-patches = "change-package-name"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [TikTok]
+enabled = false
 excluded-patches = "change-package-name"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
 [Reddit]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 
 [Messenger]
@@ -65,12 +67,12 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 apkmirror-arch = "arm64-v8a"
 
 [Spotify]
-enabled = true
+enabled = false
 excluded-patches = "change-package-name"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Citra]
-enabled = true
+enabled = false
 excluded-patches = "change-package-name"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/citra-emulator/citra-emulator/"
 apkmirror-arch = "arm64-v8a"
