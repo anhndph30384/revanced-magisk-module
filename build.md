@@ -1,6 +1,6 @@
-Twitch: 15.4.1  
 Twitter: 9.71.0-release.0  
-Messenger: 417.0.0.12.64  
+Twitch: 15.4.1  
+Messenger: 419.0.0.0.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
