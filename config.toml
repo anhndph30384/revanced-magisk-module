@@ -48,6 +48,7 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Twitch]
+enabled = false
 build-mode = "apk"
 excluded-patches = "change-package-name"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
@@ -62,6 +63,7 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 
 [Messenger]
+enabled = false
 excluded-patches = "change-package-name"
 version = "419.0.0.0.3"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
